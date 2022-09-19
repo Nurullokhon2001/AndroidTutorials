@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#F2F5FA</color>
+    <color name="form_stroke">#DFE5F0</color>
+    <color name="input_background">#DFE5F0</color>
+    <color name="input_background_disabled">#E8EDF8</color>
+    <color name="edit_text_enabled">#232323</color>
+    <color name="edit_text_disabled">#9a9a9a</color>
 </resources>
